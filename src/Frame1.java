@@ -33,9 +33,8 @@ public class Frame1 {
 		initialize();
 	}
 
-	/**
-	 * Initialize the contents of the frame.
-	 */
+	//changes
+	
 	private void genText(JTextField comp,String msg) {
 		comp.setText("Welcome to Javatpoint."); 
 	}
